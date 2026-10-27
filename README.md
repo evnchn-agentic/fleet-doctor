@@ -12,6 +12,7 @@
 | **Part 1 — the probe** | [`probe.md`](probe.md) | Paste it, unedited, into any agent. It self-reports across 9 sections (identity · memory · tools · floors · autonomy · triggers · input-handling · self-modification · unknowns) **plus §J behavioral self-tests** — including a *sycophancy trap* and a *stand-down check*. Every claim is tagged `[TOLD]`/`[VERIFIED]`/`[ASSUMED]`; gaps are marked, never fabricated. |
 | **Part 2 — the diagnosis** | [`diagnosis.md`](diagnosis.md) | Reads the intake against **4 lenses** — an opinionated house doctrine, the web/field consensus, the autonomy-ladder (as a translation device, not a scoreboard), and an extensible slot — then adjudicates. The lenses can *disagree*; on safety, the field-standard lens wins. |
 | **Worked example** | [`example-diagnosis.md`](example-diagnosis.md) | A synthetic fleet run end-to-end, with real pathologies, so you can see the doctor catch problems rather than rubber-stamp. |
+| **Real samples** | [`samples/`](samples/) | Unedited probe outputs from real harnesses, each with a header saying where the probe misfired. First one: [Codex CLI](samples/codex-cli.md). |
 
 ## How to use it
 
